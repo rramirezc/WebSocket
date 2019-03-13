@@ -30,3 +30,4 @@ public class FigureEncoder implements Encoder.Text<Figure> {
     }
     
 }
+/*Tercer commit Git WebSocket*/
